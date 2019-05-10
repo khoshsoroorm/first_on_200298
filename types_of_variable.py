@@ -1,3 +1,4 @@
+# nemone variable ha va type ona
 num_test = 100
 print(num_test, type(num_test))
 
