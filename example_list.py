@@ -9,7 +9,7 @@ print(lst1_test[1:4])
 print(lst1_test[4:])
 
 # yeki dar mion
-print(lst1_test[0: :2])
+print(lst1_test[0::2])
 
 
 #makos print kone
